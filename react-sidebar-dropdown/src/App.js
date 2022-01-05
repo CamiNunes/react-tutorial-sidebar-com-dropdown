@@ -1,10 +1,11 @@
 import './App.css';
+import Sidebar from './components/Sidebar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Teste Camila</h1>
-    </div>
+    <>
+      <Sidebar/> 
+    </>
   );
 }
 
