@@ -33,18 +33,18 @@ export const SidebarData = [
     iconOpened: <RiIcons.RiArrowUpSFill/>,
     subNav: [
       {
-        title: 'Reports 1',
-        path: '/reports/reports1',
+        title: 'Report 1',
+        path: '/reports/report1',
         icon: <IoIcons.IoIosPaper/>,
       },
       {
-        title: 'Reports 2',
-        path: '/reports/reports2',
+        title: 'Report 2',
+        path: '/reports/report2',
         icon: <IoIcons.IoIosPaper/>,
       },
       {
-        title: 'Reports 3',
-        path: '/reports/reports3',
+        title: 'Report 3',
+        path: '/reports/report3',
         icon: <IoIcons.IoIosPaper/>,
       },
     ]
@@ -63,7 +63,7 @@ export const SidebarData = [
     title: 'Message',
     path: '/message',
     icon: <FaIcons.FaEnvelopeOpenText/>,
-    iconClosed: <RiIcons.RiArrowDropDownSFill/>,
+    iconClosed: <RiIcons.RiArrowDownSFill/>,
     iconOpened: <RiIcons.RiArrowUpSFill/>,
     subNav: [
       {
